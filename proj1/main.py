@@ -1,5 +1,5 @@
-#Input to get activity from user by displaying a prompt.
-# Prmpt can be saved into variable and used in input function.
+# Input to get activity from user by displaying a prompt.
+# Prompt can be saved into variable and used in input function.
 prompt = "Enter a todo: "
 
 todos = []
